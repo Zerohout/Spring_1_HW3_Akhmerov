@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\IT-learning\GeekUniversity\Java\SpringFramework 1 часть\Урок 3\Spring_1_HW3_Akhmerov\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
